@@ -36,9 +36,9 @@ A simple guide to install the firmware from source without the hassle of editing
 3. Open the `USER_SETUP.H` file.
 4. Edit accordingly, depending on your device. Refer to the images below.
 - 1 USB CYD w/o GPS
-
+! [1usb] (https://github.com/jei3m/cyd-marauder/blob/main/screenshots/1%20usb.png)
 - 2 USB CYD w/o GPS
-
+! [2usb] (https://github.com/jei3m/cyd-marauder/blob/main/screenshots/2usb.png)
 The `USER_SETUP.H` is responsible for the inversion of colors. Especially in some cases where you flashed the firmware and the interface displays with a white background.
 - Don't forget to hit save.
 ---
