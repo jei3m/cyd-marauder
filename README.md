@@ -61,8 +61,8 @@ The `USER_SETUP.H` is responsible for the inversion of colors. Especially in som
 ![board](https://github.com/jei3m/cyd-marauder/assets/113350529/1e37c8b4-fa67-4326-8b70-20684b01806d)
 
 6. Your port depends on the value of COM# on where your CYD is connected.
-7. Set the Partition Scheme to MINIMAL SPIFFS `(LARGE APP WITH OTA)`
-8. Set the upload speed to 115200.
+7. Set the Partition Scheme to `MINIMAL SPIFFS (LARGE APP WITH OTA)`
+8. Set the upload speed to `115200`
 
 ![boardsall](https://github.com/jei3m/cyd-marauder/assets/113350529/a6ebb6cd-42a5-4fe6-b248-8a0b7aa4b92f)
 
