@@ -1,4 +1,4 @@
-# ESP32 Marauder from Source.
+# ESP32 Marauder from Source to CYD.
 A simple guide to installing the firmware from source without the hassle of editing multiple files.
 
 ---
