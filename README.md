@@ -1,6 +1,4 @@
-# ESP32 Marauder fr
-
-om Source.
+# ESP32 Marauder from Source.
 A simple guide to install the firmware from source without the hassle of editing multiple files.
 
 ---
@@ -34,7 +32,7 @@ A simple guide to install the firmware from source without the hassle of editing
 ---
 ## TFT_eSPI-master
 1. Depending on your tpe of CYD, edit the value of `USER_SETUP.H` inside the `TFT_eSPI-master` library folder.
-2. Go to: `C:\Users\justi\OneDrive\Documents\Arduino\libraries\TFT_eSPI-master`
+2. Go to: `C:\Users\USERNAME\OneDrive\Documents\Arduino\libraries\TFT_eSPI-master`
 3. Open the `USER_SETUP.H` file.
 4. Edit accordingly, depending on your device. Refer to the images below.
 - 1 USB CYD w/o GPS
@@ -42,7 +40,7 @@ A simple guide to install the firmware from source without the hassle of editing
 - 2 USB CYD w/o GPS
 
 The `USER_SETUP.H` is responsible for the inversion of colors. Especially in some cases where you flashed the firmware and the interface displays with a white background.
-
+- Don't forget to hit save.
 ---
 ## The Source Code of ESP32 Marauder
 1. Download the `ESP32_MARAUDER.zip` from this repository and extract it.
